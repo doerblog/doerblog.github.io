@@ -1,0 +1,33 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: Baihan Lin
+  email: DoerLBH@gmail.com
+  link: http://doerlbh.github.io/blog
+  weibo: http://weibo.com/yansu0711
+  github: http://github.com/suyan
+
+# 站点信息
+title: Baihan's Blog | 林柏翰的博客 
+description: Baihan's Blog | 林柏翰的博客 
+url: http://doerlbh.github.io/blog
+rss_url: /pages/atom.xml
+
+# avatar头像及Favicon
+avatar: http://en.gravatar.com/avatar/c3f17efc644dc613f335001adcd23250?s=1000
+favicon: http://en.gravatar.com/avatar/c3f17efc644dc613f335001adcd23250?s=1000
+
+# google analytics 设置
+ga:
+  id: UA-74038161-2
+  url: doerlbh.github.io
+
+# disqus 设置
+disqus:
+  shortname: doerlbh
