@@ -25,6 +25,6 @@ In a society of fast speed, ironically a virtual room becomes the most stable pl
 
 Thus, I would like to give it a try.
 
-## Powered by
+## Acknowledgement
 
-This blog used [Jekyll](http://jekyllrb.com/) and located in [Github](https://pages.github.com), with a theme modified upon [3-Jekyll](https://github.com/P233/3-Jekyll). Here I really appreciate the wonderful design and platform for authors for above projects.
+This blog used [Jekyll](http://jekyllrb.com/) and located in [Github](https://pages.github.com), with a theme modified upon [3-Jekyll](https://github.com/P233/3-Jekyll) and [suyan](https://github.com/suyan/suyan.github.io). Here I really appreciate the wonderful designs and platforms from brilliant authors for above projects.
