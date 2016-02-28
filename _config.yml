@@ -32,7 +32,7 @@ ga:
   url: doerlbh.github.io/blog
 
 # Build settings
-permalink: /:year/:month/:day/:title.html
+permalink: /blog/:year/:month/:day/:title.html
 markdown: kramdown
 highlighter: rouge
 sass:
