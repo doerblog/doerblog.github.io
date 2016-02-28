@@ -19,8 +19,8 @@ github: doerlbh
 # dribbble: username
 
 # avatar头像及Favicon
-avatar: http://en.gravatar.com/avatar/c3f17efc644dc613f335001adcd23250?s=200
-favicon: http://en.gravatar.com/avatar/c3f17efc644dc613f335001adcd23250?s=200
+avatar: http://en.gravatar.com/avatar/c3f17efc644dc613f335001adcd23250?s=1000
+favicon: http://en.gravatar.com/avatar/c3f17efc644dc613f335001adcd23250?s=1000
 
 # disqus 设置
 disqus:
