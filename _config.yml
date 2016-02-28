@@ -3,7 +3,7 @@ title: Baihan's Blog | 林柏翰的博客
 email: DoerLBH@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Baihan's Blog | 林柏翰的博客
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "blog" # the subpath of your site, e.g. /blog/
 url: "http://doerlbh.github.io" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 
