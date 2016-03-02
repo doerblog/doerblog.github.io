@@ -27,4 +27,4 @@ Thus, I would like to give it a try.
 
 ## Acknowledgement  
 
-This blog used [Jekyll](http://jekyllrb.com/) and located in [Github](https://pages.github.com), with a theme modified upon [3-Jekyll](https://github.com/P233/3-Jekyll) and [suyan](https://github.com/suyan/suyan.github.io). Here I really appreciate the wonderful designs and platforms from brilliant authors for above projects.  
+This blog used [Jekyll](http://jekyllrb.com/) and hosted in my [Github](https://github.com/DoerBlog/doerblog.github.io), with a theme modified upon [3-Jekyll](https://github.com/P233/3-Jekyll) and [suyan](https://github.com/suyan/suyan.github.io). Here I really appreciate the wonderful designs and platforms from brilliant authors for above projects.  
