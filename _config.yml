@@ -1,24 +1,26 @@
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+
 # Site settings
 title: Baihan's Blog | 林柏翰的博客 
-email: DoerLBH@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Baihan's Blog | 林柏翰的博客
-baseurl: "blog" # the subpath of your site, e.g. /blog/
-url: "http://doerlbh.github.io" # the base hostname & protocol for your site
-rss_url: /pages/feed.xml
+description: Baihan's Blog | 林柏翰的博客
+link: http://doerblog.github.io
 
-# Sidebar filter
-# Choose 'tag' or 'category' as filter in sidebar.
-filter: 'category'
+# Author
+author: 
+  name: Baihan Lin
+  email: DoerLBH@gmail.com
+  link: http://doerblog.github.io
+  weibo: 
+  github: http://github.com/doerlbh
 
-# Social account
-#twitter: 
-# weibo:    ID
-github: doerlbh
-# codepen:  username
-# dribbble: username
 
-# avatar头像及Favicon
+# avatar & Favicon
 avatar: http://en.gravatar.com/avatar/c3f17efc644dc613f335001adcd23250?s=1000
 favicon: http://en.gravatar.com/avatar/c3f17efc644dc613f335001adcd23250?s=1000
 
@@ -28,12 +30,7 @@ disqus:
 
 # google analytics 设置
 ga:
-  id: UA-74038161-2
-  url: doerlbh.github.io/blog
+  id: UA-74038161-4
+  url: doerblog.github.io
 
-# Build settings
-permalink: /:year/:month/:day/:title.html
-markdown: kramdown
-highlighter: rouge
-sass:
-  style: compressed
+
