@@ -3,7 +3,7 @@ layout: post
 title: Welcome
 ---
 
-**__Note: This website is outdated. My latest official website is at [http://www.columbia.edu/~bl2681/](http://www.columbia.edu/~bl2681/).__**
+**_Note: This website is outdated. My latest official website is at [http://www.columbia.edu/~bl2681/](http://www.columbia.edu/~bl2681/)._**
 
 ## About me
 
