@@ -3,6 +3,8 @@ layout: post
 title: Welcome
 ---
 
+**__Note: This website is outdated. My latest official website is at [http://www.columbia.edu/~bl2681/](http://www.columbia.edu/~bl2681/).__**
+
 ## About me
 
 Baihan Lin
@@ -17,7 +19,7 @@ I love hiking, badminton, table tennis, swimming and kayaking.
 
 ## About this blog
 
-This is a experimental blog with updates of my life, supplemental to my official homepage: [http://doerlbh.github.io](http://doerlbh.github.io).  
+This is an **outdated** experimental blog with updates of my life, supplemental to my another **outdated** official homepage: [http://doerlbh.github.io](http://doerlbh.github.io). My latest official website is at [http://www.columbia.edu/~bl2681/](http://www.columbia.edu/~bl2681/).
 
 I tends to like classifying and arranging everything in order and this style of layouts facilitates that greatly.  
 
