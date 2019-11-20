@@ -3,7 +3,7 @@ layout: post
 title: Welcome
 ---
 
-**_Note: This website is outdated. My latest official website is at [http://www.columbia.edu/~bl2681/](http://www.columbia.edu/~bl2681/)._**
+**_Note: This website is outdated. My latest official website is at [https://www.baihan.nyc](https://www.baihan.nyc)._**
 
 ## About me
 
