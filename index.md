@@ -3,7 +3,7 @@ layout: post
 title: Welcome
 ---
 
-**_Note: This website is outdated. My latest official website is at [https://www.baihan.nyc](https://www.baihan.nyc)._**
+**_Note: This website is very outdated. My latest official website is at [https://www.baihan.nyc](https://www.baihan.nyc)._**
 
 ## About me
 
